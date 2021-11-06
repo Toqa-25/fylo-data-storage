@@ -233,7 +233,7 @@ margin: 1px 0 0 1px;
     .prog-text-right{
      position: absolute;
     right: 50%;
-    top: 110px;
+    top: 90px;
     transform: translateX(50%);
     clip-path: inset(0% 0% 0% 0%);
     width: 141px;
